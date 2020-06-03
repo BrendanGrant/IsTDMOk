@@ -1,6 +1,6 @@
 # IsTDMOk
 
-Recently a friend (A) and an interesting problem. A friend (B) of theirs needed to break off contact to preserve their marriage, however they A was concerned about the health of B who has been dealing with some health things and wanted a way to be able to know if they had won or not, while still maintaining a high degree of 
+Recently a friend (A) and an interesting problem. A friend (B) of theirs needed to break off contact to preserve their marriage, however they A was concerned about the health of B who has been dealing with some health things and wanted a way to be able to know if they had won or not, while still maintaining a high degree of distance.
 
 I've a friend who fell off the map a number of years ago and I still worry about them, wondering if they are alive or dead. The not knowing is the worst.
 
