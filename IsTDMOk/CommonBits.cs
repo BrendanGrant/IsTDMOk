@@ -33,9 +33,8 @@ namespace IsTDMOk
             string.Join(Environment.NewLine + Environment.NewLine,
                 new[]
                 {
-                    "This is the inaugural test of the IsTDMOk service.",
-                    $"I am a simple bot, commissioned by {SenderName}. I will periodically ping this phone number to inquire if {TargetName} is ok or not {AilmentName}wise.",
-                    "I only accept numeric responses in query. I do not support an \"I want to talk to the manager\" mode, nor any other messages.",
+                    $"Hello, I am a simple bot, commissioned by {SenderName} to act as a relay. I will periodically ping your phone number to inquire if {TargetName} is ok or not {AilmentName}wise.",
+                    "I only accept numeric responses. I do not support an \"I want to talk to the manager\" mode, nor any other messages. I am very simple.",
                     "My source code can be seen at: https://github.com/BrendanGrant/IsTDMOk (steps were taken to ensure personal information not end up there)",
                     $"Note: {SenderName}'s contact information is attached to that source code, however {TargetName} lacks the technical ability to figure out how find it. Doing so would require asking for help from the last person {SubjectivePronoun.ToLower()} would want to ask." }
                 );
